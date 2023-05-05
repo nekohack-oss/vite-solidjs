@@ -1,6 +1,5 @@
 module.exports = {
   extends: [
-    '@nekohack/eslint-config-react',
     'plugin:@typescript-eslint/recommended'
   ],
   parserOptions: {
